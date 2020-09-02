@@ -1,1 +1,3 @@
-const grre
+const greeting = (name: string) => {
+  return ``;
+}

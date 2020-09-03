@@ -9,10 +9,12 @@ a simple starter to create typescript npm modules
 ## Usage
 
 ```shell
-# clone 
+# clone project
 $ git clone https://github.com/koakh/KoakhNodeModuleTypescriptStarter.git typescript-rest-actions-api
 # change package from `@koakh/typescript-node-module-starter` to `@koakh/typescript-rest-actions-api`, change koakh to your namespace
 $ nano package.json
+# change `typescript-node-module-starter` with `typescript-rest-actions-api`
+$ nano index.d.ts
 # install dependencies
 $ rm package-lock.json
 $ npm i

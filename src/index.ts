@@ -1,3 +1,1 @@
-const greeting = (name: string) => {
-  return ``;
-}
+export * from './util';
